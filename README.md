@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Duck761/Duck761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi, I'm Dylan 👋</h1>
+
+<p align="center">
+  I am a aspiring web developer learning Javascript, HTML, and CSS. I plan on using Node.JS and React to build my websites. Before web development I made discord bots
+  using the discord.js node library. However, I stopped because of being overwhelemed by updates. I've learned that as programmers, we all have to deal with this. 
+  I plan on getting a FAANG at Google or Microsoft once I'm older. Hope I see you there!
+</p>
